@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shandhor.github.io/BrightPath.github.io/sitemap.xml

@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1767094708028,
-  "index": "/BrightPath.github.io/index.html",
+  "timestamp": 1767177590635,
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/BrightPath.github.io/favicon.ico",
-        "/BrightPath.github.io/index.html",
-        "/BrightPath.github.io/main.f97954a53b0dc621.js",
-        "/BrightPath.github.io/manifest.webmanifest",
-        "/BrightPath.github.io/polyfills.2704a7aea555db94.js",
-        "/BrightPath.github.io/runtime.424eef68c3eee88e.js",
-        "/BrightPath.github.io/scripts.425520de70bbab43.js",
-        "/BrightPath.github.io/styles.38ca6442189fb9ad.css"
+        "/favicon.ico",
+        "/index.html",
+        "/main.f97954a53b0dc621.js",
+        "/manifest.webmanifest",
+        "/polyfills.2704a7aea555db94.js",
+        "/runtime.424eef68c3eee88e.js",
+        "/scripts.425520de70bbab43.js",
+        "/styles.38ca6442189fb9ad.css"
       ],
       "patterns": []
     },
@@ -30,36 +30,36 @@
         "ignoreVary": true
       },
       "urls": [
-        "/BrightPath.github.io/assets/icons/icon-128x128.png",
-        "/BrightPath.github.io/assets/icons/icon-144x144.png",
-        "/BrightPath.github.io/assets/icons/icon-152x152.png",
-        "/BrightPath.github.io/assets/icons/icon-192x192.png",
-        "/BrightPath.github.io/assets/icons/icon-384x384.png",
-        "/BrightPath.github.io/assets/icons/icon-512x512.png",
-        "/BrightPath.github.io/assets/icons/icon-72x72.png",
-        "/BrightPath.github.io/assets/icons/icon-96x96.png"
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/BrightPath.github.io/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
-    "/BrightPath.github.io/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
-    "/BrightPath.github.io/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
-    "/BrightPath.github.io/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
-    "/BrightPath.github.io/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/BrightPath.github.io/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/BrightPath.github.io/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
-    "/BrightPath.github.io/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
-    "/BrightPath.github.io/favicon.ico": "04c278dba3e54393c4c980f7fd4dcd43796ef813",
-    "/BrightPath.github.io/index.html": "ca5dbe989fd6d1e2ca9ae15e14020739b6393672",
-    "/BrightPath.github.io/main.f97954a53b0dc621.js": "ba9c17a137216a06501a1e8e544bb46a39c891f3",
-    "/BrightPath.github.io/manifest.webmanifest": "798355c0c40200ffcdf0dba6efbedfc10fb787fb",
-    "/BrightPath.github.io/polyfills.2704a7aea555db94.js": "6f14a0eda1536f856cbce61e1b342fb373b735b7",
-    "/BrightPath.github.io/runtime.424eef68c3eee88e.js": "83ebfdf2c8579bfb067b890430813d5f440a4521",
-    "/BrightPath.github.io/scripts.425520de70bbab43.js": "7211c1b6834a647c20c392e955cec24fcf063731",
-    "/BrightPath.github.io/styles.38ca6442189fb9ad.css": "7ddc1f0d33b5ae7eead9c2db4e0817a64d18b3b8"
+    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/favicon.ico": "04c278dba3e54393c4c980f7fd4dcd43796ef813",
+    "/index.html": "81595a041385b146cfa1296e31a145192e19cada",
+    "/main.f97954a53b0dc621.js": "ba9c17a137216a06501a1e8e544bb46a39c891f3",
+    "/manifest.webmanifest": "798355c0c40200ffcdf0dba6efbedfc10fb787fb",
+    "/polyfills.2704a7aea555db94.js": "6f14a0eda1536f856cbce61e1b342fb373b735b7",
+    "/runtime.424eef68c3eee88e.js": "83ebfdf2c8579bfb067b890430813d5f440a4521",
+    "/scripts.425520de70bbab43.js": "7211c1b6834a647c20c392e955cec24fcf063731",
+    "/styles.38ca6442189fb9ad.css": "7ddc1f0d33b5ae7eead9c2db4e0817a64d18b3b8"
   },
   "navigationUrls": [
     {
